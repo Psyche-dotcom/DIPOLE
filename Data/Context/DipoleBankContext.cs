@@ -24,7 +24,7 @@ namespace Data.Context
             modelBuilder.Entity<IdentityRole>().HasData(
                 new IdentityRole() { Name = "ADMIN", ConcurrencyStamp = "1", NormalizedName = "ADMIN" },
                 new IdentityRole() { Name = "USER", ConcurrencyStamp = "2", NormalizedName = "USER" },
-            new IdentityRole() { Name = "CAMGIRL", ConcurrencyStamp = "3", NormalizedName = "CASHIER" });
+            new IdentityRole() { Name = "CASHIER", ConcurrencyStamp = "3", NormalizedName = "CASHIER" });
         }
     }
 }

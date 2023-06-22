@@ -1845,3 +1845,153 @@ VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);
 2023-06-22 10:03:38.588 +01:00 [DBG] Authentication of the HTTPS connection timed out.
 2023-06-22 10:03:38.589 +01:00 [DBG] Connection id "0HMRIVU5KOUJI" stopped.
 2023-06-22 10:03:38.589 +01:00 [DBG] Connection id "0HMRIVU5KOUJI" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-06-22 10:09:43.421 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2023-06-22 10:09:43.956 +01:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2023-06-22 10:09:43.957 +01:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2023-06-22 10:09:44.283 +01:00 [INF] Entity Framework Core 6.0.0 initialized 'DipoleBankContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.0' with options: None
+2023-06-22 10:09:44.317 +01:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2023-06-22 10:09:44.317 +01:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2023-06-22 10:09:44.470 +01:00 [DBG] Context 'DipoleBankContext' started tracking 'IdentityRole' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.471 +01:00 [DBG] Context 'DipoleBankContext' started tracking 'IdentityRole' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.471 +01:00 [DBG] Context 'DipoleBankContext' started tracking 'IdentityRole' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.494 +01:00 [DBG] Context 'DipoleBankContext' started tracking 'IdentityRole' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.494 +01:00 [DBG] Context 'DipoleBankContext' started tracking 'IdentityRole' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.494 +01:00 [DBG] Context 'DipoleBankContext' started tracking 'IdentityRole' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.519 +01:00 [DBG] An entity of type 'IdentityRole' tracked by 'DipoleBankContext' changed state from '"Unchanged"' to '"Deleted"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.525 +01:00 [DBG] An entity of type 'IdentityRole' tracked by 'DipoleBankContext' changed state from '"Unchanged"' to '"Deleted"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.525 +01:00 [DBG] An entity of type 'IdentityRole' tracked by 'DipoleBankContext' changed state from '"Unchanged"' to '"Deleted"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.538 +01:00 [DBG] DetectChanges starting for 'DipoleBankContext'.
+2023-06-22 10:09:44.549 +01:00 [DBG] DetectChanges completed for 'DipoleBankContext'.
+2023-06-22 10:09:44.604 +01:00 [DBG] DetectChanges starting for 'DipoleBankContext'.
+2023-06-22 10:09:44.606 +01:00 [DBG] DetectChanges completed for 'DipoleBankContext'.
+2023-06-22 10:09:44.619 +01:00 [DBG] Context 'DipoleBankContext' started tracking 'IdentityRole' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.619 +01:00 [DBG] Context 'DipoleBankContext' started tracking 'IdentityRole' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.620 +01:00 [DBG] Context 'DipoleBankContext' started tracking 'IdentityRole' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.620 +01:00 [DBG] Context 'DipoleBankContext' started tracking 'IdentityRole' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.620 +01:00 [DBG] Context 'DipoleBankContext' started tracking 'IdentityRole' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.620 +01:00 [DBG] Context 'DipoleBankContext' started tracking 'IdentityRole' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.620 +01:00 [DBG] An entity of type 'IdentityRole' tracked by 'DipoleBankContext' changed state from '"Unchanged"' to '"Deleted"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.620 +01:00 [DBG] An entity of type 'IdentityRole' tracked by 'DipoleBankContext' changed state from '"Unchanged"' to '"Deleted"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.620 +01:00 [DBG] An entity of type 'IdentityRole' tracked by 'DipoleBankContext' changed state from '"Unchanged"' to '"Deleted"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-06-22 10:09:44.620 +01:00 [DBG] DetectChanges starting for 'DipoleBankContext'.
+2023-06-22 10:09:44.620 +01:00 [DBG] DetectChanges completed for 'DipoleBankContext'.
+2023-06-22 10:09:44.621 +01:00 [DBG] DetectChanges starting for 'DipoleBankContext'.
+2023-06-22 10:09:44.621 +01:00 [DBG] DetectChanges completed for 'DipoleBankContext'.
+2023-06-22 10:09:44.713 +01:00 [DBG] 'DipoleBankContext' disposed.
+2023-06-22 10:10:15.592 +01:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2023-06-22 10:10:16.120 +01:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2023-06-22 10:10:16.122 +01:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2023-06-22 10:10:16.406 +01:00 [INF] Entity Framework Core 6.0.0 initialized 'DipoleBankContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.0' with options: None
+2023-06-22 10:10:16.467 +01:00 [DBG] Migrating using database 'main' on server 'Dipole.db'.
+2023-06-22 10:10:16.476 +01:00 [DBG] Opening connection to database 'main' on server 'Dipole.db'.
+2023-06-22 10:10:16.492 +01:00 [DBG] Opened connection to database 'main' on server 'C:\Users\bsahe\Documents\Git_Project\DIPOLE\DipoleBank\Dipole.db'.
+2023-06-22 10:10:16.509 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2023-06-22 10:10:16.517 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (8ms).
+2023-06-22 10:10:16.519 +01:00 [DBG] Opening connection to database 'main' on server 'Dipole.db'.
+2023-06-22 10:10:16.523 +01:00 [DBG] Opened connection to database 'main' on server 'C:\Users\bsahe\Documents\Git_Project\DIPOLE\DipoleBank\Dipole.db'.
+2023-06-22 10:10:16.533 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2023-06-22 10:10:16.557 +01:00 [INF] Executed DbCommand (27ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2023-06-22 10:10:16.558 +01:00 [DBG] Closing connection to database 'main' on server 'C:\Users\bsahe\Documents\Git_Project\DIPOLE\DipoleBank\Dipole.db'.
+2023-06-22 10:10:16.561 +01:00 [DBG] Closed connection to database 'main' on server 'Dipole.db'.
+2023-06-22 10:10:16.563 +01:00 [DBG] Opening connection to database 'main' on server 'Dipole.db'.
+2023-06-22 10:10:16.563 +01:00 [DBG] Opened connection to database 'main' on server 'C:\Users\bsahe\Documents\Git_Project\DIPOLE\DipoleBank\Dipole.db'.
+2023-06-22 10:10:16.564 +01:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2023-06-22 10:10:16.564 +01:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2023-06-22 10:10:16.564 +01:00 [DBG] Opening connection to database 'main' on server 'Dipole.db'.
+2023-06-22 10:10:16.564 +01:00 [DBG] Opened connection to database 'main' on server 'C:\Users\bsahe\Documents\Git_Project\DIPOLE\DipoleBank\Dipole.db'.
+2023-06-22 10:10:16.564 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2023-06-22 10:10:16.564 +01:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2023-06-22 10:10:16.564 +01:00 [DBG] Closing connection to database 'main' on server 'C:\Users\bsahe\Documents\Git_Project\DIPOLE\DipoleBank\Dipole.db'.
+2023-06-22 10:10:16.565 +01:00 [DBG] Closed connection to database 'main' on server 'Dipole.db'.
+2023-06-22 10:10:16.572 +01:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2023-06-22 10:10:16.572 +01:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2023-06-22 10:10:16.572 +01:00 [DBG] Opening connection to database 'main' on server 'Dipole.db'.
+2023-06-22 10:10:16.572 +01:00 [DBG] Opened connection to database 'main' on server 'C:\Users\bsahe\Documents\Git_Project\DIPOLE\DipoleBank\Dipole.db'.
+2023-06-22 10:10:16.573 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2023-06-22 10:10:16.573 +01:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2023-06-22 10:10:16.575 +01:00 [DBG] A data reader was disposed.
+2023-06-22 10:10:16.575 +01:00 [DBG] Closing connection to database 'main' on server 'C:\Users\bsahe\Documents\Git_Project\DIPOLE\DipoleBank\Dipole.db'.
+2023-06-22 10:10:16.575 +01:00 [DBG] Closed connection to database 'main' on server 'Dipole.db'.
+2023-06-22 10:10:16.587 +01:00 [INF] Applying migration '20230622090944_fixRole'.
+2023-06-22 10:10:16.660 +01:00 [DBG] Opening connection to database 'main' on server 'Dipole.db'.
+2023-06-22 10:10:16.660 +01:00 [DBG] Opened connection to database 'main' on server 'C:\Users\bsahe\Documents\Git_Project\DIPOLE\DipoleBank\Dipole.db'.
+2023-06-22 10:10:16.662 +01:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2023-06-22 10:10:16.666 +01:00 [DBG] Began transaction with isolation level 'Serializable'.
+2023-06-22 10:10:16.668 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-22 10:10:16.668 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-22 10:10:16.668 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "AspNetRoles"
+WHERE "Id" = '60de3e12-62ad-4af2-85fe-4655a6cfccf0';
+SELECT changes();
+2023-06-22 10:10:16.669 +01:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "AspNetRoles"
+WHERE "Id" = '60de3e12-62ad-4af2-85fe-4655a6cfccf0';
+SELECT changes();
+2023-06-22 10:10:16.669 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-22 10:10:16.669 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-22 10:10:16.669 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "AspNetRoles"
+WHERE "Id" = '76213383-d19a-4bf3-a3f7-d37a02dc1ebf';
+SELECT changes();
+2023-06-22 10:10:16.669 +01:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "AspNetRoles"
+WHERE "Id" = '76213383-d19a-4bf3-a3f7-d37a02dc1ebf';
+SELECT changes();
+2023-06-22 10:10:16.669 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-22 10:10:16.670 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-22 10:10:16.670 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "AspNetRoles"
+WHERE "Id" = 'a4796f47-5a81-41d3-ad44-77f6853255df';
+SELECT changes();
+2023-06-22 10:10:16.670 +01:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "AspNetRoles"
+WHERE "Id" = 'a4796f47-5a81-41d3-ad44-77f6853255df';
+SELECT changes();
+2023-06-22 10:10:16.670 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-22 10:10:16.670 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-22 10:10:16.670 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "AspNetRoles" ("Id", "ConcurrencyStamp", "Name", "NormalizedName")
+VALUES ('45014ad2-fa88-4f8d-8b07-dee2161ed97b', '3', 'CASHIER', 'CASHIER');
+2023-06-22 10:10:16.670 +01:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "AspNetRoles" ("Id", "ConcurrencyStamp", "Name", "NormalizedName")
+VALUES ('45014ad2-fa88-4f8d-8b07-dee2161ed97b', '3', 'CASHIER', 'CASHIER');
+2023-06-22 10:10:16.670 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-22 10:10:16.670 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-22 10:10:16.670 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "AspNetRoles" ("Id", "ConcurrencyStamp", "Name", "NormalizedName")
+VALUES ('7ff4ef1e-717e-44e1-9eb3-a7a7bef9a25a', '2', 'USER', 'USER');
+2023-06-22 10:10:16.670 +01:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "AspNetRoles" ("Id", "ConcurrencyStamp", "Name", "NormalizedName")
+VALUES ('7ff4ef1e-717e-44e1-9eb3-a7a7bef9a25a', '2', 'USER', 'USER');
+2023-06-22 10:10:16.670 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-22 10:10:16.670 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-22 10:10:16.670 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "AspNetRoles" ("Id", "ConcurrencyStamp", "Name", "NormalizedName")
+VALUES ('bad3fb12-8864-4b95-83a9-1a36f80b872c', '1', 'ADMIN', 'ADMIN');
+2023-06-22 10:10:16.670 +01:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "AspNetRoles" ("Id", "ConcurrencyStamp", "Name", "NormalizedName")
+VALUES ('bad3fb12-8864-4b95-83a9-1a36f80b872c', '1', 'ADMIN', 'ADMIN');
+2023-06-22 10:10:16.670 +01:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2023-06-22 10:10:16.670 +01:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2023-06-22 10:10:16.670 +01:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20230622090944_fixRole', '6.0.0');
+2023-06-22 10:10:16.670 +01:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20230622090944_fixRole', '6.0.0');
+2023-06-22 10:10:17.805 +01:00 [DBG] Committing transaction.
+2023-06-22 10:10:17.808 +01:00 [DBG] Committed transaction.
+2023-06-22 10:10:17.809 +01:00 [DBG] Disposing transaction.
+2023-06-22 10:10:17.809 +01:00 [DBG] Closing connection to database 'main' on server 'C:\Users\bsahe\Documents\Git_Project\DIPOLE\DipoleBank\Dipole.db'.
+2023-06-22 10:10:17.809 +01:00 [DBG] Closed connection to database 'main' on server 'Dipole.db'.
+2023-06-22 10:10:17.810 +01:00 [DBG] 'DipoleBankContext' disposed.
